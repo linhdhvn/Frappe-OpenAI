@@ -1,5 +1,5 @@
 [project]
-name = "openai"
+name = "frappe_openai_integration"
 authors = [
     { name = "Manav Mandli", email = "manavmandli2990@gmail.com"}
 ]

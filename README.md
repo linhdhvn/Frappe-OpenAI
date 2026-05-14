@@ -49,8 +49,8 @@ Make sure you have Frappe set up.
 
 ```bash
 # Get the app
-$ bench get-app https://github.com/manavmandli/openai.git
+$ bench get-app https://github.com/manavmandli/frappe_openai_integration.git
 
 # Install on your site
-$ bench --site yoursite install-app openai
+$ bench --site yoursite install-app frappe_openai_integration
 

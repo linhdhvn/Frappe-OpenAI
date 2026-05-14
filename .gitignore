@@ -6,6 +6,5 @@ tags
 node_modules
 __pycache__
 
-# VS Code
+.vs/
 .vscode/
-.vs
